@@ -16,7 +16,7 @@ let package = Package(
         .binaryTarget(
             name: "TestFrameWork",
             url: "https://github.com/engsulta/TestFramework/raw/main/xcframeworks/TestFrameWrok-0.0.1.xcframework.zip",
-            checksum: "2735947065d7277f9cb5b21a6815af76a4fa2f2245ce9960f289640f579996d6"
+            checksum: "c80fda1fd7ab9ebc7711694d169e19529997d445e4c303dbdad0320d63d2a77a"
         ),
     ]
 )
